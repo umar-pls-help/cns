@@ -1,0 +1,14 @@
+---------> C++  
+g++ program.cpp (compile)
+./a (run)
+
+
+---------> JAVA
+
+javac file.java (compile)
+java file
+
+
+---------> Python 
+
+python file.py (run)

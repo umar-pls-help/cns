@@ -1,0 +1,32 @@
+FOR JAVA
+
+path {
+
+D:\Softwares\Coding\JAVA\bin
+C:\Program Files\Java\jre1.8.0_251\bin
+C:\Program Files (x86)\Java\jre1.8.0_251\bin
+
+}
+
+JAVA_HOME {
+
+C:\Program Files\Java\jre1.8.0_251
+D:\Softwares\Coding\JAVA
+}
+
+classpath {
+
+D:\Softwares\Coding\JAVA\lib\*.jar\
+C:\Program Files\Java\jre1.8.0_251\lib
+
+
+}
+
+----------------------------------
+
+
+FOR MiniGW 
+
+path {
+D:\Softwares\Coding\MiniGW\mingw32\bin
+}
